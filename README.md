@@ -72,4 +72,5 @@ The script will read the custom images, perform predictions, and display the pre
 
 Feel free to customize this README.md file to suit your project's specific details and add any additional sections you think would be helpful for users. Make sure to update the license information and include any acknowledgments or credits as appropriate.
 
-## Jupyter Notebook Code :- 
+## Jupyter Notebook Code :- https://github.com/Hemang-01/Handwritten-digit-recognition-system/blob/main/Handwritten%20digit%20recognition%20system.ipynb
+
